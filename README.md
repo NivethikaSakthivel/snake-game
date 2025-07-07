@@ -61,12 +61,3 @@ snake-game-java/
 - No external libraries required
 
 ---
-
-## License
-This project is open-source and free to use for educational purposes.
-
----
-
-## Contact
-📧 your-email@example.com  
-🌐 [Your GitHub Profile](https://github.com/your-username)
